@@ -1,0 +1,9 @@
+## Hi there 👋
+# Welcome to Dynpricing Technologies Inc. official github
+
+<!--
+
+**Here are some ideas to get you started:**
+
+Dynpricing is revolutionizing restaurant pricing strategies with intelligent, dynamic solutions. Utilizing cutting-edge technology and real-time data analysis, we empower restaurants to maximize profits by dynamically adjusting menu prices. Our platform is tailored to meet the unique needs of each restaurant, offering an easy-to-use interface that seamlessly integrates with existing systems. Join the future of dining with Dynpricing, and elevate your restaurant's profitability and customer satisfaction.
+-->
